@@ -8,7 +8,6 @@ clear; # clears powershell screen
 Set-Location c:\yourdirectory goes here; # set your working directory
 pwd # see current working directory
 
-
 # The `Add-Content` cmdlet appends content to a file. 
 # Type the content in the command or specify an object; e.g `Get-Date`.
 
