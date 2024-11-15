@@ -34,5 +34,5 @@ WSMan                Credentials                              {WSMan}
 
 
 cd Alias: # alias dir
-cd Function: Functions dir
+cd Function: # Functions dir
 
